@@ -12,9 +12,6 @@
     ":label(renovate)"
   ],
   "semanticCommits": "disabled",
-  "lockFileMaintenance": {
-    "enabled": true
-  },
   "platformAutomerge": true,
   "packageRules": [
         {
