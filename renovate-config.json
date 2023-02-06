@@ -23,7 +23,8 @@
         },
         {
             "matchDepTypes": ["devDependencies", "peerDependencies", "require-dev"],
-            "rangeStrategy": "bump"
+            "rangeStrategy": "bump",
+            "automerge": true
         }
   ]
 }
